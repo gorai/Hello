@@ -1,16 +1,15 @@
-Habiendo analizado lo hablado en la reunion anterir y los PowerBi que nos compartiron sobre Cancelaciones y Reclamaciones, vamos a necesitar pedirles y aclarar lo siguiente
+Habiendo analizado lo tratado en la reunión anterior y los tableros de Power BI que nos compartieron sobre Cancelaciones y Reclamaciones, necesitamos solicitar y aclarar lo siguiente:
 
-De ser posible compartirme los fuentes de los PowerBI para abrirlos localmente y poder visualizar las tablas, calculos y medidas que utilizan.
-Posibilidad de acceder a la informacion origen, ya sea al lago o a los excel que utilizan para generar dichos tableros.
-Contar con un catalogo de ramos y de productos ya que encuentro similitudes en los nombres de los productos y realmente no se si son lo mismos o distintos.
+- Si es posible, agradecería que nos compartan las fuentes de los Power BI para poder abrirlos localmente y visualizar las tablas, cálculos y medidas utilizadas.  
+- También quisiéramos contar con acceso a la información de origen, ya sea al data lake o a los archivos Excel utilizados para generar dichos tableros.  
+- Sería de utilidad disponer de un catálogo de ramos y productos, ya que se observan similitudes en los nombres de los productos y no queda claro si se trata de los mismos o de distintos.
 
+**Algunas dudas que podrían abordarse en una próxima reunión:**
 
-Algunas dudas que podrian ser evacuadas en una proxima reunion
+- ¿Solo se evalúan cuatro ramos (Vida, Hogar, Salud y Accidentes)?  
+- ¿Existe un catálogo de motivos de reclamos?  
+- En caso de existir, ¿podrían compartir el catálogo de ramos, productos y motivos de reclamos?  
+- Respecto a las sociedades, ¿únicamente se deben evaluar Santander Seguros Generales (SSR), Santander Seguros (SG) y Santander Vida (SV)?  
+- En cuanto al stock de pólizas, no recuerdo cómo se obtiene la información. ¿Podrían compartir también ese detalle?
 
-Solo se evaluan 4 ramos (Vida, Hogar, Salud, Accidentes) ?
-Existe un catalogo de motivos de reclamos? 
-Se podrá compartir el catalogo de ramos, productos y motivos de reclamos si existiese?
-Sobre las sociedades solamente necesitan evaluar Santander Seguros Generales (SSR), Santander Seguros (SG) y Santander Vida (SV) ?
-Y con respecto al stock de polizas no recuerdo como se obtiene la información, si se puede compartir tambien.
-
-Habian comentado de evaluar cuales son datos sencibles para ocultarlos/eliminarlos de la fuente de datos (excel/lago), pudieron trabajar en ello?
+Por último, habían comentado que evaluarían cuáles son los datos sensibles que deberían ocultarse o eliminarse de la fuente de datos (Excel o lago). ¿Pudieron avanzar en ese punto?
