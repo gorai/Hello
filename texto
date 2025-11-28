@@ -1,0 +1,16 @@
+Habiendo analizado lo hablado en la reunion anterir y los PowerBi que nos compartiron sobre Cancelaciones y Reclamaciones, vamos a necesitar pedirles y aclarar lo siguiente
+
+De ser posible compartirme los fuentes de los PowerBI para abrirlos localmente y poder visualizar las tablas, calculos y medidas que utilizan.
+Posibilidad de acceder a la informacion origen, ya sea al lago o a los excel que utilizan para generar dichos tableros.
+Contar con un catalogo de ramos y de productos ya que encuentro similitudes en los nombres de los productos y realmente no se si son lo mismos o distintos.
+
+
+Algunas dudas que podrian ser evacuadas en una proxima reunion
+
+Solo se evaluan 4 ramos (Vida, Hogar, Salud, Accidentes) ?
+Existe un catalogo de motivos de reclamos? 
+Se podrá compartir el catalogo de ramos, productos y motivos de reclamos si existiese?
+Sobre las sociedades solamente necesitan evaluar Santander Seguros Generales (SSR), Santander Seguros (SG) y Santander Vida (SV) ?
+Y con respecto al stock de polizas no recuerdo como se obtiene la información, si se puede compartir tambien.
+
+Habian comentado de evaluar cuales son datos sencibles para ocultarlos/eliminarlos de la fuente de datos (excel/lago), pudieron trabajar en ello?
