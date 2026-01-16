@@ -1,0 +1,22 @@
+Resumen Ejecutivo: Migración e Integración RiskAgility FM con SailPoint 
+
+Requisito de Migración 
+
+La empresa WTW proveedora del software en cuestión confirma que es necesario migrar a RiskAgility FM versión 3.10 como requisito previo para realizar la integración con SailPoint. Esta migración debe completarse antes de iniciar cualquier trabajo de integración. 
+
+Coordinación de Equipos 
+
+Se requiere establecer comunicación con cuatro grupos clave: el especialista actual de RiskAgility en Santander (para entender la configuración y hosting actual), el equipo de IAM Ciberseguridad, el personal de WTW (para soporte técnico de la migración), y personal que administre Azure AD para configuraciones necesarias en la integracion. 
+
+ 
+
+Entorno de Pruebas 
+
+Crear un sandbox colaborativo entre Ciberseguridad y el equipo de integración para validar la migración a versión 3.10 y probar las configuraciones de integración SailPoint antes del despliegue productivo 
+
+Plan de Ejecución 
+
+Tras completar los onboardings con los equipos involucrados y basándose en la documentación de WTW, desarrollar un checklist detallado que guíe la migración a 3.10 y la posterior integración con SailPoint. 
+
+ 
+ 
