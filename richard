@@ -1,0 +1,20 @@
+Buenas tardes, os comento la situación de RiskAgility
+
+Premisas de la integración:
+
+Según lo conversado en una reunión anterior con un personal de WTW (1era reunión) propone que para realizar las integraciones se debe tener la ultima versión vigente que era la 3.9 (documentos emitidos por WTW en esa versión) , hasta el 16 de Diciembre RiskAgility FM a evolucionado a 3.10,  Tenemos que informarnos si : 
+Realmente es necesaria la migración y que impacto podría ocasionar en el flujo actual.    
+Si podríamos integrar SailPoint con la versión actual que se tiene de RiskAgility
+
+Se realizó un estudio de la documentación emitida por WTW de 4 archivos, que sirven de partida para conocer el producto y se sustrajo la información pertinente a nuestro requerimiento (email 17/12/2025)
+
+Acciones:
+
+Parte de las acciones que se debe tomar para llevar a cabo la integración se debe tener en consideración varios punto:
+Contactar y establecer OnBoarding con el especialista actual que se encarga de RiskAgility (en Santander) y nos pueda facilitar información, conocer la aplicación, donde se aloja la aplicación, etc, para así nosotros como equipo tener una mejor idea y armar un workflow ajustado al requerimiento.
+Contactar con el personal de IAM Ciberseguridad  posiblemente (Diego Sánchez Alonso o Julian Manuel Nieto Alonso), para esclarecer los requerimientos, y tener una visión más efectiva de lo que se requiere en la integración
+Contactar nuevamente al personal de WTW para enfatizar los conocimientos adquiridos entre el OnBoarding y la documentación emitida por ellos, para así lograr establecer un checklist que nos permita llevar a cabo paso a paso la integración.
+Crear un laboratorio prototipo entre Ciberseguridad y el equipo que realizara la integración, para poner en prueba la posible migración a 3.9 (en caso de ser necesaria) o la configuración de los software que intervienen en el procesos de integración (Sandbox).
+
+De interés:
+    Es necesario contactar al departamento o equipo encargado de administrar el Azure Active Directory, ya que es menester su participación en el proceso, si pueden sugerirnos algún nombre, seria de agrado
